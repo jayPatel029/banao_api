@@ -1,6 +1,6 @@
-# banao_t1
+# banao_task-2
 
-Internship Task 1 by Across The Globe (ATG).
+Internship Task 2 by Across The Globe (ATG).
 
 A new Flutter project.
 
